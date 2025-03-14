@@ -1,6 +1,6 @@
 # `yamcodes/dotfiles`
 
-- [`.vscode/`](.vscode) - My VSCode configuration, including `settings.json`.
+- [`.vscode/`](.vscode) - My VSCode configuration, including [settings.json](.vscode/settings.json).
 
 ### What are "dotfiles"?
 
