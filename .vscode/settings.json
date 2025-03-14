@@ -1,0 +1,75 @@
+{
+	"window.commandCenter": true,
+	"editor.fontFamily": "Geist Mono, JetBrains Mono, Consolas, 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"window.zoomLevel": 0,
+	"terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+	"git.enableSmartCommit": true,
+	"git.confirmSync": false,
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"[jsonc]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"git.autofetch": true,
+	"catppuccin-noctis-icons.hidesExplorerArrows": false,
+	"workbench.iconTheme": "vs-trae-seti",
+	"remote.autoForwardPortsSource": "hybrid",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.formatOnSave": true,
+	"workbench.colorCustomizations": {
+		"terminal.background": "#00000000"
+	},
+	"workbench.settings.applyToAllProfiles": [],
+	"window.titleBarStyle": "custom",
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": "comment",
+				"settings": {
+					"fontStyle": "italic"
+				}
+			}
+		]
+	},
+	"terminal.integrated.gpuAcceleration": "off",
+	"editor.tabSize": 2,
+	"git.ignoreRebaseWarning": true,
+	"githubPullRequests.createOnPublishBranch": "never",
+	"[json]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"files.associations": {
+		".env*": "dotenv"
+	},
+	"dotenv.enableAutocloaking": false,
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"githubPullRequests.pullBranch": "never",
+	"terminal.integrated.fontFamily": "JetBrains Mono",
+	"cursor.cpp.disabledLanguages": ["plaintext"],
+	"editor.fontSize": 16,
+	"workbench.colorTheme": "Vercel 2024 Dark",
+	"typescript.inlayHints.enumMemberValues.enabled": true,
+	"typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"typescript.inlayHints.parameterNames.enabled": "literals",
+	"typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"typescript.inlayHints.variableTypes.enabled": true,
+	"editor.inlayHints.padding": true,
+	"javascript.inlayHints.parameterTypes.enabled": true,
+	"javascript.inlayHints.parameterNames.enabled": "literals",
+	"javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+	"javascript.inlayHints.enumMemberValues.enabled": true,
+	"javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+	"javascript.inlayHints.variableTypes.enabled": true,
+	"typescript.inlayHints.parameterTypes.enabled": true,
+	"typescript.preferGoToSourceDefinition": true,
+	"javascript.preferGoToSourceDefinition": true,
+	"explorer.excludeGitIgnore": true,
+	"files.exclude": {
+		"**/.**": true
+	}
+}
